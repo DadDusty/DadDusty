@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Andreas Makslahti, a dad to two boys and a developer.
+## Hi there 👋 I'm Andreas Makslahti, a dad of two boys and a developer at night.
 
 
 🛠️ My tech toolkit includes NextJS, React, React Native, PHP, Laravel, JS, Java, C#, .NET and much more.
